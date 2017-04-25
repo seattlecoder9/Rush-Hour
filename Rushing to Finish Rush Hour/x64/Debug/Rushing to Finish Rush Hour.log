@@ -1,0 +1,15 @@
+﻿Build started 4/22/2017 2:09:53 PM.
+     1>Project "C:\Users\Nick\Cpts122FinalProject\Rushing to Finish Rush Hour\Rushing to Finish Rush Hour\Rushing to Finish Rush Hour.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Car.cpp Main.cpp Skrr.cpp Truck.cpp
+         Truck.cpp
+         Skrr.cpp
+         Main.cpp
+     1>c:\users\nick\cpts122finalproject\rushing to finish rush hour\rushing to finish rush hour\shared.h(6): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         Car.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Nick\Cpts122FinalProject\Rushing to Finish Rush Hour\Rushing to Finish Rush Hour\Rushing to Finish Rush Hour.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.16
